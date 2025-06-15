@@ -1,1 +1,3 @@
 # Forecasting-US-Consumer-Price-Index
+
+Inflation, the sustained rise in the general price level of goods and services, is a key indicator of economic health in the United States. Measured mainly by the Consumer Price Index (CPI) and Producer Price Index (PPI), U.S. inflation has varied over time—from the Great Depression's deflation to the high inflation of the 1970s and recent post-pandemic surges. Causes include demand-pull, cost-push, and built-in inflation, influenced by factors such as supply chain issues, global commodity prices, and monetary policy. Inflation impacts purchasing power, savings, interest rates, and investment decisions. This study explores U.S. inflation trends, causes, and effects to support informed economic planning.
